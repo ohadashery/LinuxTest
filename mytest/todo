@@ -1,0 +1,9 @@
+
+
+
+
+1. build .ko characted device
+	- communicate with char device through /proc/dev 
+	- commiunicate through ioctl
+3. create TCP/IP server/client applcation on localhost - master socket programming
+

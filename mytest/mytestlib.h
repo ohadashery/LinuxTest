@@ -1,0 +1,4 @@
+
+
+
+void *mytestlibfunc(void*);
